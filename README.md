@@ -61,7 +61,7 @@ This notebook demonstrates the collocation of mesoscale eddies and BGC-Argo prof
 ## Contributing
 If you find a bug, have a question, or want to contribute, please open an issue or email [Ramkrushn Patel](Ramkrushnbhai.Patel@utas.edu.au). 
 
-Please find detailed version of How to contribute in `doc/` directory.
+Detailed version of How to contribute will be provided in `doc/` directory.
 
 ## Contact
 Ramkrushnbhai S. Patel

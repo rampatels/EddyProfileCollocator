@@ -2,6 +2,10 @@
 
 The **`EddyProfSync`** is a MATLAB - based tool designed to identify profiles that are surfaced in mesoscale eddies.
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10453071.svg)](https://doi.org/10.5281/zenodo.10453071)
+
+
 ## Table of Content
 1. [**Installation**](#installation-1)
 1. [**Functions**](#functions)

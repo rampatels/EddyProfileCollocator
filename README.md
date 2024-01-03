@@ -79,3 +79,6 @@ Email: [Ramkrushn Patel](mailto:Ramkrushnbhai.Patel@utas.edu.au)
 ## Acknowledgement
 
 ## Citation
+While this work is under consideration for publication in JOSS, please use following citation.
+
+Patel, R. S. (2024). EddyProfSync: A MATLAB tools for collocating coherent eddy and hydrographic datasets (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.10453071
